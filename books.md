@@ -1,5 +1,5 @@
 
-## C
+## Books for C
 
 * [A Tutorial on Pointers and Arrays in C](https://sites.cs.ucsb.edu/~mikec/cs16/misc/ptrtut12/pointers.htm)
 * [Advanced Linux Programming](http://www.advancedlinuxprogramming.com/)
@@ -18,7 +18,7 @@
 * [TONC GBA Programming - Game Boy Advance Development](http://www.coranac.com/tonc/text/toc.htm)
 * [Using C on the UNIX System - David A. Curry](http://www.bitsinthewind.com/about-dac/publications/using-c-on-the-unix-system)
 
-## C++
+## Books for C++
 
 * [C++ Annotations](http://cppannotations.sourceforge.net/) 
 * [C++ Cookbook](http://staff.ppu.edu/dkhalid/O'Reilly%20-%20C++%20Cookbook%20%282007%29.pdf) (PDF)
